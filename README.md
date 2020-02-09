@@ -20,7 +20,7 @@ python topsis101703074.py <InputDataFile> <Weights> <Impacts>
 ```
 Example:
 ```sh
-python topsis.py myData.csv “1,2,1,1” “+,+,-,+”
+python topsis101703074.py myData.csv “1,2,1,1” “+,+,-,+”
 ```
 
 License
